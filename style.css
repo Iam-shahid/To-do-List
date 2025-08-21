@@ -13,6 +13,7 @@
     
 }
 
+
 .todo-app{
     width: 100%;
     max-width: 540px;
@@ -22,6 +23,7 @@
     border-radius: 15px;
     border: 2px solid magenta;
 }
+
 .todo-app h2{
     /* color: #002765; */
     color: #f50dca;
